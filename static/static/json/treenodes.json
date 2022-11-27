@@ -1,0 +1,60 @@
+{
+    "root": [
+        {
+            "key": "0",
+            "label": "Axial Fans",
+            "data": "Documents Folder",
+            "icon": "pi pi-fw pi-inbox",
+            "children": [
+                { "key": "UVS-DKA", "label": "UVS-DKA", "icon": "pi pi-fw pi-circle", "data": "UVS-DKA Fan" },
+                { "key": "UVS-SKA", "label": "UVS-SKA", "icon": "pi pi-fw pi-circle", "data": "UVS-SKA Fan" },
+                { "key": "UVS-BA", "label": "UVS-BA", "icon": "pi pi-fw pi-circle", "data": "UVS-BA Fan" },
+                { "key": "UVS-A", "label": "UVS-A", "icon": "pi pi-fw pi-circle", "data": "UVS-A Fan" },
+                { "key": "UVS-A-4", "label": "UVS-A-4", "icon": "pi pi-fw pi-circle", "data": "UVS-A-4 Fan" },
+                { "key": "UVS-FHA", "label": "UVS-FHA", "icon": "pi pi-fw pi-circle", "data": "UVS-FHA Fan" },
+                { "key": "UVS-KO", "label": "UVS-KO", "icon": "pi pi-fw pi-circle", "data": "UVS-KO Fan" },
+                { "key": "UVS-KO-A", "label": "UVS-KO-A", "icon": "pi pi-fw pi-circle", "data": "UVS-KO-A Fan" }
+            ]
+        },
+        {
+            "key": "1",
+            "label": "Radial Fans",
+            "data": "Events Folder",
+            "icon": "pi pi-fw pi-inbox",
+            "children": [
+                { "key": "UVS-GS", "label": "UVS-GS", "icon": "pi pi-fw pi-circle", "data": "UVS-GS Fan" },
+                { "key": "UVS-GR", "label": "UVS-GR", "icon": "pi pi-fw pi-circle", "data": "UVS-GR Fan" },
+                { "key": "UVS-M", "label": "UVS-M", "icon": "pi pi-fw pi-circle", "data": "UVS-M Fan" },
+                { "key": "UVS-K", "label": "UVS-K", "icon": "pi pi-fw pi-circle", "data": "UVS-K Fan" },
+                { "key": "UVS-R", "label": "UVS-R", "icon": "pi pi-fw pi-circle", "data": "UVS-R Fan" },
+                { "key": "UVS-Y", "label": "UVS-Y", "icon": "pi pi-fw pi-circle", "data": "UVS-Y Fan" },
+                { "key": "UVS-KR", "label": "UVS-KR", "icon": "pi pi-fw pi-circle", "data": "UVS-KR Fan" },
+                { "key": "UVS-FGM-80", "label": "UVS-FGM-80", "icon": "pi pi-fw pi-circle", "data": "UVS-FGM-80 Fan" },
+                { "key": "UVS-FGM-63", "label": "UVS-FGM-63", "icon": "pi pi-fw pi-circle", "data": "UVS-FGM-63 Fan" },
+                { "key": "UVS-KA", "label": "UVS-KA", "icon": "pi pi-fw pi-circle", "data": "UVS-KA Fan" },
+                { "key": "UVS-AL-K", "label": "UVS-AL-K", "icon": "pi pi-fw pi-circle", "data": "UVS-AL-K Fan" },
+                { "key": "UVS-GSP", "label": "UVS-GSP", "icon": "pi pi-fw pi-circle", "data": "UVS-GSP Fan" },
+                { "key": "UVS-FER", "label": "UVS-FER", "icon": "pi pi-fw pi-circle", "data": "PUVS-FER Fan" },
+                { "key": "UVS-FHD", "label": "UVS-FHD", "icon": "pi pi-fw pi-circle", "data": "UVS-FHD Fan" },
+                { "key": "UVS-TR", "label": "UVS-TR", "icon": "pi pi-fw pi-circle", "data": "UVS-TR Fan" },
+                { "key": "UVS-T", "label": "UVS-T", "icon": "pi pi-fw pi-circle", "data": "UVS-T Fan" },
+                { "key": "UVS-P", "label": "UVS-P", "icon": "pi pi-fw pi-circle", "data": "UVS-P Fan" },
+                { "key": "UVS-SK", "label": "UVS-SK", "icon": "pi pi-fw pi-circle", "data": "UVS-SK Fan" },
+                { "key": "UVS-DMK", "label": "UVS-DMK", "icon": "pi pi-fw pi-circle", "data": "UVS-DMK Fan" },
+                { "key": "UVS-MKS", "label": "UVS-MKS", "icon": "pi pi-fw pi-circle", "data": "UVS-MKS Fan" },
+                { "key": "UVS-SF", "label": "UVS-SF", "icon": "pi pi-fw pi-circle", "data": "UVS-SF Fan" }
+            ]
+        },
+        {
+            "key": "2",
+            "label": "Roof Fans",
+            "data": "Movies Folder",
+            "icon": "pi pi-fw pi-inbox",
+            "children": [
+                { "key": "UVS-FTR", "label": "UVS-FTR", "icon": "pi pi-fw pi-circle", "data": "UVS-FTR Fan" },
+                { "key": "UVS-KO-C", "label": "UVS-KO-C", "icon": "pi pi-fw pi-circle", "data": "UVS-KO-C Fan" },
+                { "key": "UVS-RF", "label": "UVS-RF", "icon": "pi pi-fw pi-circle", "data": "UVS-RF Fan" }
+            ]
+        }
+    ]
+}
